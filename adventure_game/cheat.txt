@@ -1,0 +1,120 @@
+take knife
+go south
+take leather armor
+attack rat
+knife
+attack rat
+knife
+attack rat
+knife
+take key
+go west
+take key
+take torch
+status
+status
+status
+status
+unlock west
+yes
+go west
+take sword
+take plate armor
+go east
+go south
+take antidote
+take key
+go south
+attack bats
+torch
+attack bats
+torch
+attack bats
+torch
+go north
+go north
+go east
+go north
+unlock east
+yes
+go east
+attack kobold
+sword
+attack kobold
+sword
+attack kobold
+sword
+go north
+wholesome
+take axe
+go south
+go west
+go south
+go west
+go south
+go south
+unlock west
+yes
+go west
+attack roots
+take key
+take helm
+go east
+go north
+go north
+go east
+go north
+go east
+go north
+wholesome
+go north
+attack wolves
+sword
+attack wolves
+sword
+attack wolves
+sword
+attack wolves
+sword
+go south
+wholesome
+go north
+unlock east
+yes
+go east
+attack mimic
+sword
+attack mimic
+sword
+attack mimic
+sword
+status
+go east
+take healing rune
+attack kobolds
+sword
+attack kobolds
+sword
+attack kobolds
+sword
+attack kobolds
+sword
+take key
+unlock north
+yes
+go north
+attack lizard man
+sword
+attack lizard man
+sword
+attack lizard man
+sword
+attack lizard man
+sword
+attack lizard man
+sword
+attack lizard man
+sword
+attack lizard man
+sword
+go north
